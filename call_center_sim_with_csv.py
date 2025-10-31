@@ -144,7 +144,7 @@ if __name__ == "__main__":
         results_list.append((label, num_agents, result))
 
     # SAVE RESULTS TO CSV
-    with open("call_Center_sim_results.csv", "w", newline="") as file:
+    with open("sim_results.csv", "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow([
             "Scenario",
@@ -168,4 +168,4 @@ if __name__ == "__main__":
                 r["Finished Calls"]
             ])
 
-    print("All scenario results saved to 'call_Center_sim_results.csv'")
+    print("All scenario results saved to 'sim_results.csv'")
