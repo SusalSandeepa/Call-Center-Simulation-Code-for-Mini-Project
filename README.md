@@ -1,7 +1,5 @@
 # Call-Center-Simulation-Code-for-Mini-Project
 
-# Beginner-Friendly Call Center Simulation (Python + SimPy)
-
 This project simulates a simple **call center system** where a limited number of agents handle incoming calls.  
 It is built using **SimPy**, a Python library for discrete event simulation.  
 The project models the arrival of customers, the waiting queue, and agent utilization to analyze performance under different conditions.
