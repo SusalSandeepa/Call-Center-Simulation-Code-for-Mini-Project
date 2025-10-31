@@ -1,4 +1,4 @@
 Scenario,Agents,Avg Wait,Avg Queue,Throughput,Utilization,Arrived,Finished
 Scenario A,2,14.22,2.67,0.15,0.6,19,15
 Scenario B,3,0.56,0.11,0.2,0.467,20,20
-Scenario C,5,0,0,0.18,0.324,20,18
+Scenario C,5,0.0,0.0,0.18,0.324,20,18
