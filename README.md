@@ -48,5 +48,5 @@ The simulation runs for 100 minutes in each case and logs the results in both th
 
 ## 📊 **Output**
 
-The program prints results for each scenario and also creates a file named:
+The program prints results for each scenario and also creates a file named: results.csv
 
